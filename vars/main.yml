@@ -11,7 +11,3 @@ email_target: your_target@email.com
 email_source: your_source@email.com
 SMTP_host:    smtp.email.com
 smtp_port:    smtp_port
-
-
-ansible_user: ubuntu
-ansible_ssh_private_key: /home/roman/.ssh/id_rsa.netology.pub

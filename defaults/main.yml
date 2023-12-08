@@ -1,7 +1,7 @@
 ---
 # defaults file for monitoring
 
-my_domain: reserdukov.ru
+my_domain: your_domain
 monitoring_host: monitoring
 
 # Varamles for node-exporter
